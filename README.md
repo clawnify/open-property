@@ -4,6 +4,8 @@ Open-source **property management software** — a self-hosted, cloud-based alte
 
 Rental property management with everything you need to run a portfolio: properties and units, tenants and leases, rent collection and a ledger, maintenance work orders, and a vendor directory.
 
+<img width="1728" height="992" alt="Image" src="https://github.com/user-attachments/assets/6ddb4d4a-b86f-493c-a668-8914b5054988" />
+
 > Built on the [Clawnify](https://clawnify.com) template format. Deploy your own copy in minutes, customize freely, own the data.
 
 ## Features
